@@ -137,7 +137,7 @@ Mon cycle de développement repose sur une ingénierie des exigences rigoureuse.
 | 📬 Canal | 🔗 Lien |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/abdelbari-refak](https://www.linkedin.com/in/abdelbari-refak-171317286/) |
-| 📧 Email | [votre.email@gmail.com](refakabdelbari@gmail.com) |
+| 📧 Email | [refakabdelbari@gmail.com](refakabdelbari@gmail.com) |
 | 🐙 GitHub | [github.com/abdelbarirefak](https://github.com/abdelbarirefak) |
 
 </div>
