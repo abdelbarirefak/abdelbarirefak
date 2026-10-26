@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=250&section=header&text=Abdelbari%20REFAK&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=%C3%89l%C3%A8ve%20Ing%C3%A9nieur%20en%20G%C3%A9nie%20Logiciel%20et%20Digitalisation%20%7C%20ENSEM%20Casablanca&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A66C2,051937&height=250&section=header&text=Abdelbari%20REFAK&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=%C3%89l%C3%A8ve%20Ing%C3%A9nieur%20en%20G%C3%A9nie%20Logiciel%20et%20Digitalisation%20%7C%20ENSEM%20Casablanca&descSize=18&descColor=ffffff&descAlignY=55&animation=scaleIn)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+DevOps+Enthusiast&v=1" alt="Typing SVG" />
+</a>
 
 <br/>
 
