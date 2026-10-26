@@ -6,7 +6,7 @@ I build scalable applications from architectural design to containerized deploym
 
 If a system needs structure, chances are I'm mapping it out with formal UML and ERD models before writing a single line of code.
 
-My main tech stack is spring boot, next.js, and postgresql. My favorite tools are docker, tailwind css, and visual studio code.
+My main tech stack is spring boot, next.js, and postgresql. My favorite tools are docker and visual studio code.
 
 I've got a bunch of pinned projects, but my favorite is the nexP2P Procure-to-Pay platform.
 
