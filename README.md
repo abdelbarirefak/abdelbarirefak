@@ -31,7 +31,7 @@ La résolution de problèmes complexes stimule mon ingéniosité. Je fais preuve
 </td>
 <td width="32%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/elkihelriyad/elkihelriyad/main/mini%20gif.gif" width="250" alt="Abdelbari REFAK" />
+<img src="assets/github_avatar_focus.gif" width="250" alt="Abdelbari REFAK" />
 
 </td>
 </tr>
